@@ -42,7 +42,7 @@ I recovered the second QR code by comparing it with page3.png and adding missing
 
 ![image](https://github.com/Cheese-Of-Truth/WGMY2023/assets/145131434/9fff7e24-f4ce-430e-836c-f0e3bc25888d)
 
-This is the QR code after recovery, some of the pixels in the middle cannot be recovered as the first and second QR code are missing lines are intercepted at there, but this is already enough.
+This is the QR code after recovery, some of the pixels in the middle cannot be recovered as the missing lines in first and second QR code are intercepted there, but this is already enough.
 
 ![image](https://github.com/Cheese-Of-Truth/WGMY2023/assets/145131434/5e054180-3639-41b9-8205-2126ea572e7a)
 
