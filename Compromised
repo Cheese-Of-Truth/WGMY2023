@@ -1,8 +1,0 @@
-Challenge Name: Compromised
-Category: Forensic
-
-The challenge come with a zip file called evidence.zip
-
-After extracting it, it has a many folder inside which looks like the copy of a computer. So i import it into the FTK imager and analyse it.
-
-After analysing all of the folder, 2 suspicious files are discovered. The first file is
